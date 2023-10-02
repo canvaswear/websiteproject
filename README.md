@@ -2,7 +2,7 @@
 # CanvasWear: A Sustainable Platform for Veteran & First Responder Art 🎨
 
 ## Overview 🌐
-CanvasWear is an innovative venture incubated at the renowned Kogod School of Business Veloric Incubator. Our mission is to create a streamlined, user-friendly e-commerce platform designed to feature and sell unique art created by veterans and first responders. This project is rooted in the vision to provide a sustainable, secure, and inclusive space for these talented individuals to showcase and monetize their work, whilst offering a distinguished selection of art for the public to appreciate and purchase.
+CanvasWear is an innovative venture incubated at the renowned Kogod School of Business, Veloric Center for Entrepreneurship. Our mission is to create a streamlined, user-friendly e-commerce platform designed to feature and sell unique art created by military veterans and first responders. This project is rooted in the vision to provide a sustainable, secure, and inclusive space for these talented individuals to showcase and monetize their work, whilst offering a distinguished selection of art for the public to appreciate and purchase.
 
 ## Objectives 🎯
 - Develop a streamlined, efficient e-commerce platform that aligns with the current website at www.canvas-wear.com
